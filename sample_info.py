@@ -4,7 +4,7 @@ USER_SESSION = 'User_Bot'
 API_ID = 28330815
 API_HASH = '24e97255f9a98171db75d657dc80b073'
 BOT_TOKEN = '6697117545:AAEopy8oBl8Ruba48FHrwSntjutkrePKXI0'
-USERBOT_STRING_SESSION = 'hi wollcom bot join may all movie group @all_movie1234 '
+USERBOT_STRING_SESSION = ''
 
 # Bot settings
 CACHE_TIME = 300
@@ -18,7 +18,7 @@ AUTH_CHANNEL = None
 
 # MongoDB information
 DATABASE_URI = "mongodb+srv://akramkhan7340146997:4S8A60pfH6aHfC1o@cluster0.wbt1d5l.mongodb.net/?retryWrites=true&w=majority"
-DATABASE_NAME = 'mongodb'
+DATABASE_NAME = 'telegram'
 COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
 
 
